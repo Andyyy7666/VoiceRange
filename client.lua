@@ -4,7 +4,7 @@ local Config = {
 	y = 0.94,
     scale = 0.35,
 
-    WhisperDistance = 1.0,
+    WhisperDistance = 2.0,
     NormalDistance = 10.0,
     ShoutingDistance = 30.0,
 
