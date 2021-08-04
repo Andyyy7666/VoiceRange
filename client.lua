@@ -37,7 +37,7 @@ end
 -- change voice
 Citizen.CreateThread(function()
     while true do
-        Citizen.Wait(10)
+        Citizen.Wait(0)
 
         if IsControlJustPressed(0, Config.Keybind) then
             if InputWhisper == true then
