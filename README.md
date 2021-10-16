@@ -1,8 +1,9 @@
 # VoiceRange description:
 Simple voice range hud. The speaker changes to show you what voice distance you're speaking..
 
-# Discord:
-Join here for support or to report bugs https://discord.gg/Z9Mxu72zZ6
+# Need Support?
+
+[![Need Support?](https://i.imgur.com/fqKYWeV.png)](https://discord.gg/Z9Mxu72zZ6)
 
 # Features:
 * Configureable
